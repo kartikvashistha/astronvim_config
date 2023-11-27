@@ -7,6 +7,8 @@ return {
       "python",
       "terraform",
       "go",
+      "gosum",
+      "gomod",
       "toml",
       "yaml",
       "java",
